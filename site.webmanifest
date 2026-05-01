@@ -1,0 +1,21 @@
+{
+  "name": "Gonzales Law Offices — Car Accident Lawyer",
+  "short_name": "Gonzales Law",
+  "description": "Top-rated car accident lawyer in Fontana CA. $100M+ recovered. Free 24/7 consultation. No fee unless we win.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e1118",
+  "theme_color": "#c42727",
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
