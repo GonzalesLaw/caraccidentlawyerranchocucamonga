@@ -1,31 +1,334 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
         xmlns:xhtml="http://www.w3.org/1999/xhtml"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
           http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
+  <!-- ═══════════════════════════════════════════════════
+       Gonzales Law Offices — links.gonzaleslawoffices.com
+       Sitemap generated: 2026-05-01
+       Car Accident Lawyer Fontana CA | Mark Gonzales Esq.
+  ═══════════════════════════════════════════════════ -->
+
+  <!-- PRIMARY PAGE -->
   <url>
     <loc>https://links.gonzaleslawoffices.com/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+
+    <!-- Attorney portrait -->
+    <image:image>
+      <image:loc>https://links.gonzaleslawoffices.com/photos/atrny.webp</image:loc>
+      <image:title>Mark Gonzales Esq. — Car Accident Lawyer Fontana CA</image:title>
+      <image:caption>Attorney Mark Gonzales, Esq. (CA Bar #249340), founding attorney of Gonzales Law Offices. Personal injury and car accident lawyer in Fontana, California. $100M+ recovered.</image:caption>
+      <image:geo_location>Fontana, California, United States</image:geo_location>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://links.gonzaleslawoffices.com/photos/atrny-1.webp</image:loc>
+      <image:title>Attorney Mark Gonzales Portrait — Personal Injury Lawyer</image:title>
+      <image:caption>Portrait of Mark Gonzales, Esq., personal injury and car accident attorney at Gonzales Law Offices, Fontana CA.</image:caption>
+      <image:geo_location>Fontana, California, United States</image:geo_location>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://links.gonzaleslawoffices.com/photos/attrney-lft-img.webp</image:loc>
+      <image:title>Mark Gonzales — Personal Injury Attorney Inland Empire</image:title>
+      <image:caption>Mark Gonzales, Esq., Inland Empire personal injury attorney. Serving Fontana, San Bernardino, Ontario, and Rancho Cucamonga CA.</image:caption>
+      <image:geo_location>Fontana, California, United States</image:geo_location>
+    </image:image>
+
+    <!-- Firm / office -->
+    <image:image>
+      <image:loc>https://links.gonzaleslawoffices.com/photos/frm-lft-img.webp</image:loc>
+      <image:title>Gonzales Law Offices — Fontana Headquarters Interior</image:title>
+      <image:caption>Interior of Gonzales Law Offices headquarters at 7337 East Ave, Suite E, Fontana CA 92336. Top-rated car accident law firm.</image:caption>
+      <image:geo_location>Fontana, California, United States</image:geo_location>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://links.gonzaleslawoffices.com/photos/abt-lft-img.webp</image:loc>
+      <image:title>Gonzales Law Offices — About the Firm</image:title>
+      <image:caption>Gonzales Law Offices, personal injury and car accident law firm. Founded 2013 by Mark Gonzales, Esq. 4 locations across the Inland Empire.</image:caption>
+      <image:geo_location>Fontana, California, United States</image:geo_location>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://links.gonzaleslawoffices.com/photos/hm-car-accident-img.webp</image:loc>
+      <image:title>Car Accident Case — Gonzales Law Offices</image:title>
+      <image:caption>Car accident case handled by Gonzales Law Offices, Fontana CA. Personal injury and auto accident representation for Southern California.</image:caption>
+      <image:geo_location>Fontana, California, United States</image:geo_location>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://links.gonzaleslawoffices.com/photos/acc-rgt-img.webp</image:loc>
+      <image:title>Car Accident Scene — Gonzales Law Offices Fontana CA</image:title>
+      <image:caption>Car accident scene in the Inland Empire. Gonzales Law Offices provides free 24/7 legal consultations for accident victims. No fee unless we win.</image:caption>
+      <image:geo_location>Inland Empire, California, United States</image:geo_location>
+    </image:image>
+
+    <!-- Logo -->
     <image:image>
       <image:loc>https://links.gonzaleslawoffices.com/logo.jpg</image:loc>
-      <image:title>Gonzales Law Offices — Car Accident Lawyer Fontana CA</image:title>
-      <image:caption>Mark Gonzales, Esq. — Personal Injury Attorney serving Fontana, San Bernardino, Ontario, and Rancho Cucamonga CA. $100M+ recovered.</image:caption>
+      <image:title>Gonzales Law Offices Logo — Car Accident Lawyer Fontana CA</image:title>
+      <image:caption>Official logo of Gonzales Law Offices. Personal injury and car accident law firm in Fontana, San Bernardino, Ontario, and Rancho Cucamonga, CA.</image:caption>
       <image:geo_location>Fontana, California, United States</image:geo_location>
+      <image:license>https://links.gonzaleslawoffices.com/</image:license>
     </image:image>
+
     <image:image>
-      <image:loc>https://links.gonzaleslawoffices.com/bg.jpg</image:loc>
-      <image:title>Attorney Mark Gonzales in Court — Gonzales Law Offices</image:title>
-      <image:caption>Mark Gonzales, Esq. presenting in court. Top-rated car accident and personal injury lawyer in Southern California.</image:caption>
-      <image:geo_location>Fontana, California, United States</image:geo_location>
+      <image:loc>https://links.gonzaleslawoffices.com/photos/frm-lft-logo.webp</image:loc>
+      <image:title>Gonzales Law Offices — Firm Logo Variant</image:title>
+      <image:caption>Gonzales Law Offices logo. CA State Bar #249340. Serving all of Southern California.</image:caption>
     </image:image>
+
+    <!-- Award badges -->
+    <image:image>
+      <image:loc>https://links.gonzaleslawoffices.com/photos/awards-1.webp</image:loc>
+      <image:title>Gonzales Law Offices — 2024 Award Recognition</image:title>
+      <image:caption>Award badge recognizing Gonzales Law Offices as a top-rated car accident law firm in the Inland Empire, California.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://links.gonzaleslawoffices.com/photos/awards-2.webp</image:loc>
+      <image:title>Gonzales Law Offices — Client Choice Award</image:title>
+      <image:caption>Client choice award for Gonzales Law Offices. 4.9 stars · 202+ verified reviews.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://links.gonzaleslawoffices.com/photos/awards-3.webp</image:loc>
+      <image:title>Gonzales Law Offices — Top Attorney Award</image:title>
+      <image:caption>Top attorney award for Mark Gonzales, Esq. Avvo Rating 10.0 Superb. Fontana CA personal injury attorney.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://links.gonzaleslawoffices.com/photos/awards-4.webp</image:loc>
+      <image:title>Gonzales Law Offices — Excellence in Legal Service</image:title>
+      <image:caption>Excellence in legal service award for Gonzales Law Offices, Fontana California.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://links.gonzaleslawoffices.com/photos/awards-5.webp</image:loc>
+      <image:title>Gonzales Law Offices — $100M+ Recovered Award Badge</image:title>
+      <image:caption>Recognition of $100M+ recovered for injury victims by Gonzales Law Offices in Southern California.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://links.gonzaleslawoffices.com/photos/banr-badge.webp</image:loc>
+      <image:title>Gonzales Law Offices — Verified Firm Badge</image:title>
+      <image:caption>Verified law firm badge for Gonzales Law Offices. CA Bar Certified. Fontana, CA.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://links.gonzaleslawoffices.com/photos/positive-review.webp</image:loc>
+      <image:title>Gonzales Law Offices — 5-Star Client Review</image:title>
+      <image:caption>5-star verified client review for Gonzales Law Offices. 4.9 average rating across 202+ reviews.</image:caption>
+    </image:image>
+
+    <!-- Videos -->
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/PyI0bNrfuXE/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Car Accident? Let Gonzales Law Offices Help You</video:title>
+      <video:description>Injured in a car accident in the Inland Empire? Gonzales Law Offices — top-rated car accident lawyer in Fontana CA — explains how we fight for maximum compensation. Free 24/7 consultation: 1-888-232-2898. No fee unless we win.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=PyI0bNrfuXE</video:content_loc>
+      <video:player_loc>https://www.youtube.com/embed/PyI0bNrfuXE</video:player_loc>
+      <video:duration>120</video:duration>
+      <video:publication_date>2024-01-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>car accident lawyer</video:tag>
+      <video:tag>personal injury lawyer Fontana CA</video:tag>
+      <video:tag>Gonzales Law Offices</video:tag>
+      <video:tag>Mark Gonzales attorney</video:tag>
+      <video:tag>car accident lawyer near me</video:tag>
+    </video:video>
+
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/qkiwNZYFtQs/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Another Car Accident Client Win — Gonzales Law Offices</video:title>
+      <video:description>See why Gonzales Law Offices is the #1 rated car accident lawyer in the Inland Empire. $100M+ recovered. No fee unless we win.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=qkiwNZYFtQs</video:content_loc>
+      <video:player_loc>https://www.youtube.com/embed/qkiwNZYFtQs</video:player_loc>
+      <video:publication_date>2024-01-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:tag>car accident settlement</video:tag>
+      <video:tag>Gonzales Law Offices Fontana</video:tag>
+    </video:video>
+
+    <!-- Hreflang -->
     <xhtml:link rel="alternate" hreflang="en" href="https://links.gonzaleslawoffices.com/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://gonzaleslawoffices.com/es/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://links.gonzaleslawoffices.com/"/>
+  </url>
+
+  <!-- CANONICAL MAIN SITE -->
+  <url>
+    <loc>https://www.gonzaleslawoffices.com/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.gonzaleslawoffices.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://gonzaleslawoffices.com/es/"/>
+  </url>
+
+  <!-- OFFICE LOCATION ANCHORS -->
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#office-fontana</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#office-sanbernardino</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#office-ontario</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#office-rc</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- CITY RANKING SECTION ANCHORS — 64 cities -->
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-fontana</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-sanbernardino</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-ontario</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-ranchocucamonga</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-rialto</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-colton</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-redlands</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-highland</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-victorville</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-riverside</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-corona</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-moreno-valley</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-temecula</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-murrieta</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-losangeles</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-pomona</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-pasadena</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-longbeach</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-anaheim</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/#city-palmsprings</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- AI / LLM DISCOVERY FILES -->
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/llms.txt</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
 </urlset>

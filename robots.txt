@@ -185,6 +185,13 @@ Allow: /
 User-agent: ia_archiver
 Allow: /
 
-# ── Sitemaps ──
+# ── Sitemaps (Rank Math compatible) ──
 Sitemap: https://links.gonzaleslawoffices.com/sitemap.xml
 Sitemap: https://www.gonzaleslawoffices.com/sitemap.xml
+Sitemap: https://www.gonzaleslawoffices.com/sitemap_index.xml
+
+# ── Host ──
+Host: https://links.gonzaleslawoffices.com
+
+# ── Clean param crawl budget ──
+Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&fbclid&gclid&ref /
