@@ -331,4 +331,44 @@
     <priority>0.6</priority>
   </url>
 
+  <!-- HYPER-LOCAL CITY PAGES -->
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/fontana-car-accident-lawyer/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://links.gonzaleslawoffices.com/logo.jpg</image:loc>
+      <image:title>Car Accident Lawyer Fontana CA — Gonzales Law Offices</image:title>
+      <image:caption>Gonzales Law Offices — top-rated car accident lawyer in Fontana CA. Mark Gonzales, Esq. $100M+ recovered. Free 24/7 consultation.</image:caption>
+      <image:geo_location>Fontana, California, United States</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/rialto-car-accident-lawyer/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.88</priority>
+    <image:image>
+      <image:loc>https://links.gonzaleslawoffices.com/logo.jpg</image:loc>
+      <image:title>Car Accident Lawyer Rialto CA — Gonzales Law Offices</image:title>
+      <image:caption>Gonzales Law Offices — top-rated car accident lawyer serving Rialto CA. Mark Gonzales, Esq. $100M+ recovered. Free 24/7 consultation.</image:caption>
+      <image:geo_location>Rialto, California, United States</image:geo_location>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://links.gonzaleslawoffices.com/rancho-cucamonga-car-accident-lawyer/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://links.gonzaleslawoffices.com/logo.jpg</image:loc>
+      <image:title>Car Accident Lawyer Rancho Cucamonga CA — Gonzales Law Offices</image:title>
+      <image:caption>Gonzales Law Offices — top-rated car accident lawyer in Rancho Cucamonga CA. Local office on Haven Ave. Mark Gonzales, Esq. $100M+ recovered.</image:caption>
+      <image:geo_location>Rancho Cucamonga, California, United States</image:geo_location>
+    </image:image>
+  </url>
+
 </urlset>
